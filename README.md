@@ -56,14 +56,23 @@ Descrição breve do projeto.
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Tópicos Avançados em JAVA 8 a 21</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Udemy</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">2025</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><img src="images/Java_Topocos_avançados.jpg" alt="Certificado" width="100"></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">JAVA 8 a 21.
+      </td>
+    </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Microsserviços com Spring Cloud, Spring Boot e Docker</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Udemy</td>
       <td style="padding: 10px; border: 1px solid #ddd;">2024</td>
       <td style="padding: 10px; border: 1px solid #ddd;"><img src="images/Microsserviços_do_0_com_Sping_Cloud_Spring_Boot_e_Doker.jpg" alt="Certificado" width="100"></td>
-      <td style="padding: 10px; border: 1px solid #ddd;">JAVA 17, Spring Boot 3, Docker, Resilience4j, Swagger, Eureka, Spring Cloud Configuration, Spring Boot Actuator, Spring Data JPA, Feign, Service Discovery e          Registry com Eureka, Load Balancing com Eureka, Feign e Spring Cloud LoadBalancer, API Gateway e RouteLocator com Spring Cloud Gateway, Circuit Breaker com Resilience4j, Spring 
+      <td style="padding: 10px; border: 1px solid #ddd;">JAVA 17, Spring Boot 3, Docker, Resilience4j, Swagger, Eureka, Spring Cloud Configuration, Spring Boot Actuator, Spring Data JPA, Feign, Service Discovery e                 Registry com Eureka, Load Balancing com Eureka, Feign e Spring Cloud LoadBalancer, API Gateway e RouteLocator com Spring Cloud Gateway, Circuit Breaker com Resilience4j, Spring 
          Security,  OAuth e JWT, Configuraremos o Swagger OpenAPI nos microsserviços, Distributed Tracing com Docker, Zipkin, Eureka e Sleuth, Dockerização, entrega contínua com Github 
-         Actions</td>
+         Actions.
+      </td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Microsserviços Java com Spring Cloud</td>
@@ -71,31 +80,72 @@ Descrição breve do projeto.
       <td style="padding: 10px; border: 1px solid #ddd;">2024</td>
       <td style="padding: 10px; border: 1px solid #ddd;"><img src="images/Microsserviços_Java_com_Spring_Boot_e_Spring_Cloud.jpg" alt="Certificado" width="100"></td>
       <td style="padding: 10px; border: 1px solid #ddd;">JAVA 21, Feign, Ribbon, Servidor Eureka, API Gateway Zuul, Hystrix, Spring Data JPA, Spring Security, OAuth e JWT, Servidor de 
-          configuração centralizada com dados em repositório Git, Geração de containers Docker para os microsserviços e bases de dados</td>
+          configuração centralizada com dados em repositório Git, Geração de containers Docker para os microsserviços e bases de dados.
+      </td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Angular: Boas práticas em arquitetura e formulários</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Formação JAVA 9 Completo</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Udemy</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">2023</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><img src="images/Java_completo_2023.jpg" alt="Certificado" width="100"></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">JAVA 9, PostgreSQL e Mysql, Maven, H2.</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Formação JAVA 8 Completo</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Udemy</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">2023</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><img src="images/Java_Formação_completa_Java 8.jpg" alt="Certificado" width="100"></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">JAVA 8, postgreSQL, Maven e H2.</td>
+    </tr>
+     <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Formação  HTML5 e CSS3 - 7 cursos</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">AluraUdemy</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">2023</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><img src="images/Formação_Pratique_HTML5_e_CSS_em_projetos_WEB.png" alt="Certificado" width="100"></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Vscode, FireFox, Figma.</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Angular: 13 - Explorando o Framework</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Alura</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">2024</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><img src="images/Angular.png" alt="Certificado" width="50"></td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Angular, Formulários Reativos</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">2022</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><img src="images/Angular_Explorando_Framework.png" alt="Certificado" width="100"></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Angular, Formulários Reativos.</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Spring Boot - Microservices</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Udemy</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">2023</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><img src="images/SpringBoot.png" alt="Certificado" width="50"></td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Microserviços, REST, Spring Boot</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Consultas Avançadas em SQL</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Alura</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">2022</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><img src="images/Consultas_avançadas _no_SQL_ Alura.png" alt="Certificado" width="100"></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">MYSQL.</td>
     </tr>
-    <!-- Adicione outras linhas conforme necessário -->
-         <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;">Spring Boot - Microservices</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Udemy</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">2023</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><img src="images/SpringBoot.png" alt="Certificado" width="50"></td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Microserviços, REST, Spring Boot</td>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Formação  Desenvolvedor Android - 10 cursos</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Alura</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">2022</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><img src="images/Formação_Android_Alura.png" alt="Certificado" width="100"></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Android studio, Java 6</td>
     </tr>
-     
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Formação  React</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Alura</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">2022</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><img src="images/React.png" alt="Certificado" width="100"></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">VSCode, node, Java</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Testes Automatizados de aceitação em JAVA</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Alura</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">2022</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><img src="images/Selenium.png" alt="Certificado" width="100"></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Selenium e Java</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">Formação COBOL</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Udemy</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">2020</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><img src="images/Formação Cobol.jpg" alt="Certificado" width="100"></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">OpenCobolIDE e RDZ</td>
+    </tr>
   </tbody>
 </table>
 </div>
@@ -105,11 +155,8 @@ Descrição breve do projeto.
 ## 🌐 Redes Sociais
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/f%C3%A1bio-cristiano-silva-08b22ba9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
