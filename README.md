@@ -33,10 +33,10 @@ Olá! Eu sou **Fábio Cristiano Silva**, um desenvolvedor apaixonado por tecnolo
 
 ## 🌟 Projetos Destacados
 
-### 📂 [Projeto 1: Nome do Projeto](https://github.com/seu-usuario/nome-do-projeto)
+### 📂 [Projeto 1: Nome do Projeto](https://github.com/seu-usuario/nome-do-projeto) - ###EM DESENVOLVIMENTO
 Descrição breve do projeto.
 
-### 📂 [Projeto 2: Nome do Projeto](https://github.com/seu-usuario/nome-do-projeto)
+### 📂 [Projeto 2: Nome do Projeto](https://github.com/seu-usuario/nome-do-projeto) - ###EM DESENVOLVIMENTO
 Descrição breve do projeto.
 
 ---
