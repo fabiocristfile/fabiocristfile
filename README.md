@@ -165,7 +165,7 @@ Descrição breve do projeto.
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabiocristfile&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
 ---
@@ -174,5 +174,5 @@ Descrição breve do projeto.
 
 Se quiser bater um papo ou tiver interesse em trabalhar comigo, pode me encontrar em:
 
-- 📧 **Email:** [seu-email@gmail.com](mailto:seu-email@gmail.com)  
-- 💼 **LinkedIn:** [seu-perfil](https://linkedin.com/in/seu-perfil)  
+- 📧 **Email:** [fabiocristfile@gmail.com](mailto:fabiocristfile@gmail.com)  
+- 💼 **LinkedIn:** [Fábio Cristiano Silva](https://www.linkedin.com/in/f%C3%A1bio-cristiano-silva-08b22ba9)  
